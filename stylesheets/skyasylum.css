@@ -3,6 +3,7 @@
 body {
 	color: #fff;
 	background-color: #000;
+	background: #000 url(../images/background_slice2.png) repeat-x;
 	text-align: center;
 }
 
@@ -16,8 +17,12 @@ a:hover {
 
 #container {
 	margin: 0 auto;
+	background-image: url(../images/background_gradient2.png);
+	background-repeat: no-repeat;
 	width: 960px;
+	min-height: 250px;
 	text-align: left;
+	position:
 }
 
 /*-------------------------------------------

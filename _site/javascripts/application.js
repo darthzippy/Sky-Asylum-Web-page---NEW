@@ -11,7 +11,7 @@ $(document).ready(function() {
 	
 	$('#cycle').cycle();
 	
-	//$('.caption').hide();
+	$('.caption').hide();
 	
 	var getWidth = $('#container1').width();
 
